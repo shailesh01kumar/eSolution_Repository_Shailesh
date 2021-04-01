@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 
 # Specify the URL to your package here.
 # This URL must be accessible via pip install
-PACKAGE_URL = 'git+https://github.com/shailesh01kumar/testEsolutions_Anomalydetection'
+PACKAGE_URL = 'git+https://github.com/shailesh01kumar/eSolution_Repository_Shailesh'
 
 class InvokeeSolTransformerModel4(BaseTransformer):
     # _allow_empty_df = True  # allow this task to run even if it receives no incoming data
